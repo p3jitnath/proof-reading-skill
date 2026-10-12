@@ -29,7 +29,7 @@ Match reference work to the requested scope. Preserve citations during a languag
 - Keep numerical values, units, uncertainty, comparison populations, and direction of improvement consistent across the edited text and dependent captions or tables.
 - Review headings, captions, table labels, and cross-references as prose. When a figure becomes a table, update the object name and language about points, bars, or shading.
 - Distinguish absolute scores, percentage changes, and score points. Preserve actual meanings of missing values rather than guessing data for a visual gap.
-- Use strong, concise and informative subsection names and keep sections proportionate to their job. Divide the Discussion into distinct titled subsections, choosing their number and order to fit the argument.
+- Use neutral, concise and descriptive subsection names and keep sections proportionate to their job. Divide the Discussion into distinct titled subsections, choosing their number and order to fit the argument.
 - Check that the Discussion explained supported strengths and contributions while providing honest, constructive criticism of material limitations, adverse findings and unresolved questions. Phrase clarifications and nuances diplomatically while preserving their scientific meaning.
 - Write Conclusions and descriptions of this or other papers in past tense, preserving the distinction between completed and proposed work.
 - Connect result claims to recoverable evidence and introduce relevant figures, tables, and appendices. A number need not be repeated in a table solely because it appears in prose.

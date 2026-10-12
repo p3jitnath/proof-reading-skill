@@ -32,7 +32,7 @@ Default to polish when an editing request does not specify a level. Respect prot
 
 - Always use exactly two or three descriptive words in each paper figure filename stem, joined with hyphens before the extension, such as `forecast-error.pdf` or `regional-skill-map.png`.
 - Use diplomatic, measured wording for clarifications, nuances, qualifications and criticism, keeping the scientific meaning and necessary corrections clear.
-- Use strong, concise and informative subsection names that identify the scientific topic, question or supported finding.
+- Use neutral, concise and descriptive subsection names that identify the topic or analysis without evaluative claims.
 - Divide every Discussion into titled subsections that explain supported strengths and contributions while providing honest, constructive criticism and material limitations.
 - Always write Conclusions and descriptions of this or other papers in past tense, preserving what was completed, proposed or left unresolved.
 

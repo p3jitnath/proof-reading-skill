@@ -44,7 +44,7 @@ Use verbs that name the documented operation, such as projects, averages, estima
 
 Use diplomatic, measured language when clarifying distinctions, nuances, limitations or uncertain interpretations. Apply the same tone to author queries, review comments and explanatory replies. Explain the scientific reason and necessary repair respectfully, without blunt or forceful corrections. Wording such as “A useful distinction here was…” or “This interpretation would benefit from clarifying…” can introduce a qualification when it fits the evidence. Keep material limitations and needed corrections clear.
 
-Use strong, concise and informative subsection names that identify the scientific question, mechanism or supported finding. Prefer a title such as “Regional skill and transfer limits” to an undifferentiated topic label. Match the title's claim to the evidence and preserve the requested heading hierarchy and formatting.
+Use neutral, concise and descriptive subsection names that identify the topic or analysis without evaluative claims. Titles such as “Regional evaluation” or “Transfer assessment” describe what was examined. Preserve the requested heading hierarchy and formatting.
 
 ## Conclusions and descriptions of papers
 
