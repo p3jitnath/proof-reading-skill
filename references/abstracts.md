@@ -2,6 +2,8 @@
 
 For abbreviation definitions across the abstract, introduction, and conclusion, follow [prose style](prose-style.md#connect-sentences-through-meaning).
 
+Always write Conclusions and descriptions of papers in past tense, including summaries of this study or cited work. Follow [the tense requirements](prose-style.md#conclusions-and-descriptions-of-papers), preserving the difference between completed findings and proposed future work.
+
 Make the abstract's argument easy to follow at the requested level of intervention. Adapt its progression to the genre: a theoretical result may need assumptions and a theorem, while an empirical study needs its design, population, finding, and interpretation. Use problem → approach → evidence → implication as a diagnostic when helpful, without forcing a causal claim or a fixed sentence pattern.
 
 Keep abstracts at or below **2,000 characters, including spaces**, as the user's established preference. Also satisfy any stricter current venue constraint; a later explicit user instruction can change this preference. A word count does not replace the character check.

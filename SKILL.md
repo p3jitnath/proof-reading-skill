@@ -28,6 +28,16 @@ Honor the user's requested scope, format, language, and level of intervention ov
 
 Default to polish when an editing request does not specify a level. Respect protected wording and requested revision markup; layout work does not authorise rewriting. Use the requested or established English variety, with British English as the fallback. Preserve quotations, official names, LaTeX commands, and literal code or dataset identifiers. Change bibliography metadata only when reference corrections are in scope and supported by authoritative evidence. Follow the current document's notation and numeral conventions rather than importing another project's settings, and apply the prose punctuation rule above.
 
+## Writing preferences
+
+- Always use exactly two or three descriptive words in each paper figure filename stem, joined with hyphens before the extension, such as `forecast-error.pdf` or `regional-skill-map.png`.
+- Use diplomatic, measured wording for clarifications, nuances, qualifications and criticism, keeping the scientific meaning and necessary corrections clear.
+- Use strong, concise and informative subsection names that identify the scientific topic, question or supported finding.
+- Divide every Discussion into titled subsections that explain supported strengths and contributions while providing honest, constructive criticism and material limitations.
+- Always write Conclusions and descriptions of this or other papers in past tense, preserving what was completed, proposed or left unresolved.
+
+Apply [prose style](references/prose-style.md) for tone, headings and tense, and [manuscript editing](references/manuscript-editing.md) for figure filenames and Discussion structure. Honour the requested level of intervention and protected wording when applying these preferences.
+
 ## Preserve scientific meaning
 
 Keep numerical values, units, signs, notation, equations, causal direction, uncertainty, comparison populations, significance, citations, and cross-references intact. Check suspicious inconsistencies against available authoritative context. Resolve a scientific ambiguity only when the evidence determines the meaning; otherwise retain it with an author query or offer clearly labelled alternatives. When the user requests only revised text, place the query beside the affected statement. Continue independent language repairs and do not invent evidence or citations.

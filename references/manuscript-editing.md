@@ -29,11 +29,21 @@ Match reference work to the requested scope. Preserve citations during a languag
 - Keep numerical values, units, uncertainty, comparison populations, and direction of improvement consistent across the edited text and dependent captions or tables.
 - Review headings, captions, table labels, and cross-references as prose. When a figure becomes a table, update the object name and language about points, bars, or shading.
 - Distinguish absolute scores, percentage changes, and score points. Preserve actual meanings of missing values rather than guessing data for a visual gap.
-- Keep headings useful and sections proportionate to their job. Do not pad paragraphs or impose a universal number of subsections.
+- Use strong, concise and informative subsection names and keep sections proportionate to their job. Divide the Discussion into distinct titled subsections, choosing their number and order to fit the argument.
+- Check that the Discussion explained supported strengths and contributions while providing honest, constructive criticism of material limitations, adverse findings and unresolved questions. Phrase clarifications and nuances diplomatically while preserving their scientific meaning.
+- Write Conclusions and descriptions of this or other papers in past tense, preserving the distinction between completed and proposed work.
 - Connect result claims to recoverable evidence and introduce relevant figures, tables, and appendices. A number need not be repeated in a table solely because it appears in prose.
 - Check rendered cross-references for duplicated names such as “Figure Figure” when macros already supply the prefix.
 
 For an authorised method rename, update reader-facing names consistently and preserve a mapping to historical code or result identifiers. Do not rewrite immutable experimental records to match a new publication name.
+
+## Paper figure filenames
+
+Always use exactly two or three descriptive words in each paper figure filename stem, joined with hyphens before the extension, such as `forecast-error.pdf` or `regional-skill-map.png`. Preserve the same stem across formats and resolve collisions within that word count. For authorised file edits, rename affected paper figure assets consistently and update all manuscript inclusion paths, build references and exact Git allowlist entries. Preserve image content, extensions and scientific values. A pasted passage or findings-only review can identify a naming issue without changing files.
+
+## Discussion structure and balance
+
+Divide every Discussion into distinct, meaningfully titled subsections. Explain the supported strengths, contributions and scientific or practical value alongside honest criticism of limitations, adverse findings and unresolved questions. Recognise benefits only where the paper established them. Relate criticism to the interpretations or uses it constrained, using diplomatic and constructive wording while preserving material weaknesses and uncertainty. Follow [prose style](prose-style.md#tone-and-subsection-titles) for subsection names and qualifications. For a narrow edit, repair the affected structure within scope or report the unmet preference without rewriting protected sections.
 
 ## LaTeX and page fitting
 

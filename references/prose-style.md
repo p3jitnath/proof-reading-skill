@@ -40,6 +40,16 @@ Explain what a numerical constant controls or prevents when needed for interpret
 
 Use verbs that name the documented operation, such as projects, averages, estimates, constrains, or compares. A metaphor can motivate an idea but cannot replace a technical definition. Replace an abstract phrase only when its concrete meaning is recoverable; otherwise ask an author query.
 
+## Tone and subsection titles
+
+Use diplomatic, measured language when clarifying distinctions, nuances, limitations or uncertain interpretations. Apply the same tone to author queries, review comments and explanatory replies. Explain the scientific reason and necessary repair respectfully, without blunt or forceful corrections. Wording such as “A useful distinction here was…” or “This interpretation would benefit from clarifying…” can introduce a qualification when it fits the evidence. Keep material limitations and needed corrections clear.
+
+Use strong, concise and informative subsection names that identify the scientific question, mechanism or supported finding. Prefer a title such as “Regional skill and transfer limits” to an undifferentiated topic label. Match the title's claim to the evidence and preserve the requested heading hierarchy and formatting.
+
+## Conclusions and descriptions of papers
+
+Always write Conclusion sections and descriptions or summaries of papers in past tense, whether describing this study or cited work. Use verbs such as “developed”, “evaluated”, “found”, “showed” or “suggested”, retaining the evidence's actual certainty. Apply this to descriptions in abstracts, introductions, related work, captions and supporting summaries. Frame implications as what the completed study established or suggested. Describe future work as what the paper proposed or identified, preserving the distinction between completed and planned work.
+
 ## Preserve evidence and voice
 
 State supported results positively, precisely and confidently, preserving all numerical values and scientific distinctions. Remove unnecessary hedges and repeated caveats while retaining calibrated uncertainty and every qualification that determines scientific meaning. Keep the essential comparator, conditions and numerical uncertainty beside the affected result. Concentrate broader limitations, scope exclusions and unresolved issues neutrally in the appropriate Discussion or Scope section. Each local statement must remain accurate on its own. Never invent superiority, causality or statistical significance for a more fluent narrative.
